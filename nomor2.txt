@@ -11,7 +11,7 @@ struct data_mhs
 int main()
 {
   a.nama = "Ajis Gagap";
-  a.nim = "102904049;
+  a.nim = 102904049;
   a.ipk = 2.5;
   b.nama = "Tumming";
   b.nim = 102904050;
